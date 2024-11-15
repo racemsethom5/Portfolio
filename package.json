@@ -1,10 +1,9 @@
 {
   "devDependencies": {
+    "node-sass": "^9.0.0",
     "sass": "^1.81.0"
-  } ,
+  },
   "scripts": {
-    "build": "sass scss:dist/css"
+    "build-css": "node-sass src/styles/main.scss dist/styles/main.css"
   }
-
-  
 }
