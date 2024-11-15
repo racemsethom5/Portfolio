@@ -104,8 +104,8 @@ a {
 }
 .btn-blue:hover {
   transition: all 0.3s ease;
-  background: #0b63f3;
-  border: 2px solid #0b63f3;
+  background: rgb(11.1512195122, 99.1219512195, 242.8487804878);
+  border: 2px solid rgb(11.1512195122, 99.1219512195, 242.8487804878);
 }
 .btn-blue-outline:hover {
   color: white;
@@ -1016,4 +1016,6 @@ header .seperator-skew svg .fill-white {
   .footer .footer-flex .footer-icon-links a {
     margin: 0 1rem;
   }
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */

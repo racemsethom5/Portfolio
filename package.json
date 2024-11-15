@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "sass": "^1.81.0"
+  } ,
+  "scripts": {
+    "build": "sass scss:dist/css"
+  }
+
+  
+}
